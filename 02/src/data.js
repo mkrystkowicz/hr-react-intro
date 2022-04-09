@@ -1,16 +1,16 @@
 export const data = [
   {
-    name: 'Adam',
-    age: 28,
+    name: "Adam",
+    age: 18,
   },
   {
-    name: 'Ania',
+    name: "Ania",
     age: 35,
   },
   {
-    name: 'Roman',
+    name: "Roman",
     age: 18,
-  }
+  },
 ];
 
-// export default data;
+export default data;
